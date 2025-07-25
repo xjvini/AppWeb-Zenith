@@ -1,29 +1,50 @@
-# 🎯 Ei xera bilolas, essa versão agora inclui:
+# 🌌 Zenith - Interface Web
 
-✅ (Classe principal com @SpringBootApplication)
+Versão atual da aplicação web do Projeto **Zenith**.
 
-✅ (rotas home, login, signup)
-
-✅ Templates e arquivos estáticos simulados (HTML, CSS, JS)
-
-✅ Suporte completo a modo claro e escuro
-
-✅ Estilo visual moderno, com bordas suaves, tipografia limpa e animações leves
-
-✅ pom.xml com o mainClass corretamente declarado (com busca automatica)
-
-✅ iniciar-zenith.bat para rodar o projeto com duplo clique (diretamente da pasta). Página de acesso: http://localhost:8080/
-### Necessário JDK 17+ e Maven previamente configurados na variável do sistema.
 ---
 
-# 🚀 Correções futuras:
+## ✅ Funcionalidades Implementadas
 
-🛠️ Ajuste de cores no modo escuro
+- ✅ `@SpringBootApplication` configurado com `mainClass` detectado automaticamente pelo Maven  
+- ✅ Roteamento funcional para as páginas: `HOME`, `LOGIN` e `SIGNUP`  
+- ✅ Templates HTML e arquivos estáticos organizados (`HTML`, `CSS`, `IMG`)  
+- ✅ Modo **claro** e **escuro** totalmente funcional com botão 🌙  
+- ✅ Inserção correta de imagens:
+  - Logotipo do Zenith (`logo.jpg`)
+  - Imagem principal da jornada emocional (`i1.jpg`)  
+- ✅ Estrutura visual baseada no **print z1** e **mockup animado**  
+- ✅ Estilo moderno com:
+  - Layout **responsivo** (mobile e desktop)
+  - Bordas suaves e tipografia limpa
+  - Botões `"INICIAR"` e `"LUMEN"` estilizados  
+- ✅ Alinhamento correto entre:
+  - Logo à esquerda
+  - Navegação com `HOME`, `SOBRE`, `CONTATO` + botão dark mode à direita  
+- ✅ `pom.xml` completo e funcional (incluindo versão do Spring Boot)  
+- ✅ Arquivo `iniciar-zenith.bat` pronto para executar o projeto com duplo clique  
+- 🔗 Acesso à aplicação: [http://localhost:8080](http://localhost:8080)
 
-🛠️ Adição do logotipo e imagem nas páginas
+---
 
-🛠️ Adição da página de cadastro
+## 📌 Requisitos para rodar o projeto
+
+- ☕ **Java JDK 17+**
+- 🧰 **Maven** configurado na variável de ambiente `PATH`
+- ▶️ Executar o projeto via `iniciar-zenith.bat`
+
+---
+
+## 🚀 Correções Futuras Planejadas
+
+- 🛠️ Estilização refinada para as telas de **Login** e **Cadastro** (prints z3, z4)
+- 🛠️ Integração com backend e banco de dados real
+- 🛠️ Animações adicionais suaves para transições entre modos
+- 🛠️ Inserção de imagens e logotipos nas telas secundárias
+- 🛠️ Validações visuais e de formulário (Login/Signup)
 
 ---
 
 ⚠️ Implementação do back-end para início do protótipo final
+
+> Projeto em constante evolução.
