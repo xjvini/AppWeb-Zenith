@@ -1,4 +1,4 @@
-🎯 ###Ei xera bilolas, essa versão agora inclui:
+🎯 ##Ei xera bilolas, essa versão agora inclui:
 
 ✅ (Classe principal com @SpringBootApplication)
 
@@ -16,7 +16,7 @@
 
 ---
 
-🚀 ###Correções futuras:
+🚀 ##Correções futuras:
 
 🛠️ Ajuste de cores no modo escuro
 
