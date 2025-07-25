@@ -14,8 +14,7 @@
 
 ✅ iniciar-zenith.bat para rodar o projeto com duplo clique (diretamente da pasta). Página de acesso: http://localhost:8080/
 
-bash
-'''
+---
 
 🚀 Correções futuras:
 
