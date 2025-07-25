@@ -13,7 +13,7 @@
 ✅ pom.xml com o mainClass corretamente declarado (com busca automatica)
 
 ✅ iniciar-zenith.bat para rodar o projeto com duplo clique (diretamente da pasta). Página de acesso: http://localhost:8080/
-
+### Necessário JDK 17+ e Maven previamente configurados na variável do sistema.
 ---
 
 # 🚀 Correções futuras:
