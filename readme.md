@@ -23,3 +23,5 @@
 🛠️ Adição do logotipo e imagem nas páginas
 
 🛠️ Adição da página de cadastro
+
+⚠️ Implementação do back-end para início do protótipo final
