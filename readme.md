@@ -6,7 +6,7 @@
 
 ✅ Templates e arquivos estáticos simulados (HTML, CSS, JS)
 
-✅ Suporte completo a modo claro e escuro (falta ajustar algumas cores no modo escuro)
+✅ Suporte completo a modo claro e escuro
 
 ✅ Estilo visual moderno, com bordas suaves, tipografia limpa e animações leves
 
