@@ -12,5 +12,4 @@ Ei xera bilolas, essa versão agora inclui:
 
 📱 pom.xml com o mainClass corretamente declarado (com busca automatica)
 
-📱 iniciar-zenith.bat para rodar o projeto com duplo clique (diretamente da pasta)
-   página de acesso: http://localhost:8080/
+📱 iniciar-zenith.bat para rodar o projeto com duplo clique (diretamente da pasta). Página de acesso: http://localhost:8080/
