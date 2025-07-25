@@ -1,15 +1,16 @@
 Ei xera bilolas, essa versão agora inclui:
 
-📱 ZenithFrontendApplication.java (classe principal com @SpringBootApplication)
+📱 (Classe principal com @SpringBootApplication)
 
-📱 HomeController.java (rotas home, login, signup)
+📱 (rotas home, login, signup)
 
 📱 Templates e arquivos estáticos simulados (HTML, CSS, JS)
 
-📱 Suporte completo a modo claro e escuro (botão 🌙 na navbar)
+📱 Suporte completo a modo claro e escuro (falta ajustar algumas cores no modo escuro)
 
 📱 Estilo visual moderno, com bordas suaves, tipografia limpa e animações leves
 
-📱 pom.xml com o mainClass corretamente declarado (com busta automatica)
+📱 pom.xml com o mainClass corretamente declarado (com busca automatica)
 
-📱 iniciar-zenith.bat para rodar o projeto com duplo clique (página de acesso: http://localhost:8080/)
+📱 iniciar-zenith.bat para rodar o projeto com duplo clique (diretamente da pasta)
+   página de acesso: http://localhost:8080/
